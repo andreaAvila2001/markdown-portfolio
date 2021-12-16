@@ -1,5 +1,1 @@
-*Salmon
-*hacer ejercicio
-*dormir
-*comer
-*viajar 
+- comer - dormir -bailar -viajar 
