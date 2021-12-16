@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Imagen del arequipe](https://misrecetascolombia.com/wp-content/uploads/2020/12/Arequipe-Colombiano.jpg)
