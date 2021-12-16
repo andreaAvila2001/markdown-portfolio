@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+COSAS QUE ME GUSTAN 
+hacer ejercicio 
+Viajar
+estudiar
+ir de fiesta
+salmon
+chocolate
